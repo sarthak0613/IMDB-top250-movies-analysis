@@ -74,4 +74,4 @@ Eventually this project aims to do a sentiment analysis of the viewers and the v
 ## --Problems faced--
 
 - There were columns which had comma seperated values, so it was difficult to handle them individually for unique values.
-- 
+- Faced problem while replacing null values in the year, so I researched about the release date and year of the movie and filled the null accordingly.
