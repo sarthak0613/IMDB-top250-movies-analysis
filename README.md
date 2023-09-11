@@ -54,9 +54,24 @@ Eventually this project aims to do a sentiment analysis of the viewers and the v
 
 ![image](https://github.com/sarthak0613/IMDB-top250-movies-analysis/assets/135547703/f6ade875-6bca-493d-a05e-21815eed3c21)
 
+## --Some Key Insights--
+
+- The Shawshank redemption is the highest rated movie in the history of cinema.
+- The past 40 years of cinema has seen the most of the top movies produced in that time period.
+- Out of 250 movies, 211 movies turned out to be profitable.
+- Film with the highest budget is an animated movie i.e. princess Mononoke.
+- In the top 10 highest budget movies, 5 are animated movies.
+- Akira Kurosawa, Christopher Nolan, martin Scorsese, steven speilberg are some of the directors with the highes number of movies in the top 250.
+- Marvel cinematic universe has the most no. of movies in the top 10 highest grossing movies.
 
 
+## --Future Scope--
 
+- This analysis can help in analysing the viewer's sentiment as in what genres of movies they like watching.
+- Also we can have an idea about which director or which actor are more successfull.
+- Film makers can also be benifitted by the analysis.
 
+## --Problems faced--
 
-
+- There were columns which had comma seperated values, so it was difficult to handle them individually for unique values.
+- 
