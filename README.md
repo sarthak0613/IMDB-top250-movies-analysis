@@ -20,7 +20,8 @@ Eventually this project aims to do a sentiment analysis of the viewers and the v
 2. After getting the data in .csv form, I chose Power BI as the tool for the data cleaning as well as for driving insights.
 3. Data cleaning step involved removal of unwanted columns, making new columns by split columns w.r.t. delimiters, type casting of data into relevant data types, null handling, creating new columns and measures, etc.
 4. Data driven insights depicted in the form of tables and charts.
-
+5. Converting data types of specific columns to facilitate calculations and visualizations.
+6. Modifying and formatting columns for consistency and ease of analysis.
 
 ## --Insights--
 
