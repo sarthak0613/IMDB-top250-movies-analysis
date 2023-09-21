@@ -25,34 +25,35 @@ Eventually this project aims to do a sentiment analysis of the viewers and the v
 
 ## --Insights--
 
+### The Shawshank redemption(1994) is the highest rated movie in the history of cinema with a rating of 9.3/10. The movie comprises of the legendary actor Morgan Freeman.
 ![image](https://github.com/sarthak0613/IMDB-top250-movies-analysis/assets/135547703/f7a879c8-2afd-4465-9632-1a1062b69f6d)
 
 
-
+### Marvel Avengers: Endgame(2019) is the movie with the highest box office collection of all time($ 2.7 Billion).
 ![image](https://github.com/sarthak0613/IMDB-top250-movies-analysis/assets/135547703/73cf6e0b-73ac-4ca2-bdf3-37cf19655976)
 
 
-
+### Genres which have the highest no. of movies in top 250 are Drama(19), Crime, Drama(14) and so on.
 ![image](https://github.com/sarthak0613/IMDB-top250-movies-analysis/assets/135547703/037d4def-73d5-41a0-9dfc-d23933b4b2b6)
 
 
-
+### Majority of the movies are R-Rated and PG-Rated ,i.e. they are usually 16 yrs+ and 18 yrs+ movies. 
 ![image](https://github.com/sarthak0613/IMDB-top250-movies-analysis/assets/135547703/29068e88-ccd2-495c-b7ea-eccdf6977408)
 
 
-
+### The movie Princess Mononoke(1997) had the highest budget while making. Fun fact that this film is an animated film by the legendary film maker Hayao Miyazaki. It considered as one of the best animated movies of all time.
 ![image](https://github.com/sarthak0613/IMDB-top250-movies-analysis/assets/135547703/76ce5cdd-14ca-4f46-abde-6e7a5e1ded2f)
 
 
-
+### Here are some legendary directors who have been in most no. of movies in the IMDB top 250 movies. Akira Kurosawa, Christopher Nolan, Martin Scorsese, Stanley Kubrick and Steven Spielberg all 7 movies each in the top 250.
 ![image](https://github.com/sarthak0613/IMDB-top250-movies-analysis/assets/135547703/14d54770-1b95-4a83-aa2b-205fba7df21c)
 
 
-
+### Here are some legendary actors who have been in most no. of movies in the IMDB top 250 movies. Robert De Niro has been in 6 movies followed by Charlie Chaplin, Leonardo DiCaprio and Tom Hanks all with 5 movies.
 ![image](https://github.com/sarthak0613/IMDB-top250-movies-analysis/assets/135547703/181965e8-6121-4cd4-959e-7a83f964804c)
 
 
-
+## Power BI Dashboard
 ![image](https://github.com/sarthak0613/IMDB-top250-movies-analysis/assets/135547703/f6ade875-6bca-493d-a05e-21815eed3c21)
 
 ## --Some Key Insights--
