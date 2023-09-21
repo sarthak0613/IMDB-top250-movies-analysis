@@ -12,7 +12,9 @@ Are you a cinephile intrigued by the iconic IMDb Top 250 movie list? Or perhaps 
 
 ## --Aim of the analysis--
 
-Eventually this project aims to do a sentiment analysis of the viewers and the voters who have contributed on the IMDB top 250 movies. Also the insights from this analysis can be used by filmmakers, actors, directors etc. as well, so as to decide on what kind of topics or movies they should make or work on. These insights can be used to make such informed decisions.
+- Eventually this project aims to do a sentiment analysis of the viewers and the voters who have contributed on the IMDB top 250 movies. 
+- Also the insights from this analysis can be used by filmmakers, actors, directors etc. as well, so as to decide on what kind of topics or movies they should make or work on.
+- These insights can be used to make such informed decisions.
 
 ## --Prerequisite & Data Cleaning--
 
